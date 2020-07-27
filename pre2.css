@@ -1,0 +1,36 @@
+
+
+.top_container {
+    
+    /* border: 1px solid pink; */
+   
+    display: flex;
+    
+ 
+}
+
+.box {  
+
+    width: 100px;
+    height: 100px;
+  
+    background-color: pink;
+
+    margin: 3px;
+    border-radius: 3px;
+
+}
+
+.center_container{
+   
+    /* border: 1px solid pink; */
+    display: flex;
+
+}
+
+.bottom_container{
+   
+    /* border: 1px solid pink; */
+    display: flex;
+   
+}
